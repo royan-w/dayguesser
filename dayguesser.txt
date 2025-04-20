@@ -2,3 +2,5 @@ Dayguesser fitur
   - menebak hari dari suatu tanggal
   - mendapatkan skor setelah menjawab dalam kurun waktu tertentu
   - terdapat leaderboard untuk bersaing dengan pemain lain
+  - terdapat mode waktu yang berbeda 
+  - koin ingame
